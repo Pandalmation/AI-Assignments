@@ -6,7 +6,7 @@ Repository for holding homework from Artificial Intelligence class ^w^
 <img= https://media.discordapp.net/attachments/1129879004422340739/1162250442600890519/image.png>
 
 # Problem 2 - travelsalesman.py
-<img= https://media.discordapp.net/attachments/1129879004422340739/1162178118581223544/image.png>
+<img src= https://media.discordapp.net/attachments/1129879004422340739/1162178118581223544/image.png>
 # Problem 3 - tictactoe.py
-<img= https://media.discordapp.net/attachments/1129879004422340739/1162251092340523089>
-<img= https://media.discordapp.net/attachments/1129879004422340739/1162251592104427661>
+<img src= https://media.discordapp.net/attachments/1129879004422340739/1162251092340523089>
+<img src= https://media.discordapp.net/attachments/1129879004422340739/1162251592104427661>
