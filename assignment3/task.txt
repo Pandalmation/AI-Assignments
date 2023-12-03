@@ -1,2 +1,2 @@
-Task: 
-Use a pre-trained BERT model and Pytorch to conduct Sentiment Analysis of Genshin Impact Game reviews from the Google Play Store. The goal is for the model to be able to accurately predict the sentiment of future game reviews posted, whether it is negative, neutral or positive
+TASK SPECIFICATION:
+Our task is to use a pre-trained BERT model to conduct Sentiment Analysis of Genshin Impact Game reviews from the Google Play Store. The goal is for the model to be able to accurately predict the user sentiment towards the game which can be either negative, neutral or positive. The final product will be to provide a comprehensive record for developers, current users, and potential users of the Genshin Impact application. The input to the model will be Genshin Impact Game Reviews stored in csv format.
