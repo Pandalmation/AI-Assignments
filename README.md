@@ -1,5 +1,6 @@
 # AI-Assignments
 Repository for holding homework from Artificial Intelligence class ^w^
+please check other folders for homework 2 and homework 3.
 
 # Problem 1 - maze.py
 <img src= https://media.discordapp.net/attachments/1129879004422340739/1162248631294894110/IMG_0904.jpg>
